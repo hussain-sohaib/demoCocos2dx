@@ -127,6 +127,8 @@ bool HelloWorld::init()
     log("paramString: %s",paramString.c_str());
     
     
+    // this has been fixed
+    
     return true;
 }
 
